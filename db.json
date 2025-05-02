@@ -1,0 +1,517 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Coton T-Shirt",
+      "description": "A comfortable and stylish cotton T-shirt.",
+      "price": 19.99,
+      "category": "T-Shirt",
+      "images": [
+        "../../img/product-1-1.jpg",
+        "../../img/product-1-2.jpg"
+      ],
+      "availability": 5,
+      "sku": "TSHIRT-COT-001",
+      "rating": 4.5,
+      "reviews": [
+        {
+          "user": "John Doe",
+          "email": "johndoe@example.com",
+          "comment": "Great quality! Very comfortable to wear.",
+          "rating": 5,
+          "date": "2025-03-07"
+        },
+        {
+          "user": "Jane Smith",
+          "email": "janesmith@example.com",
+          "comment": "Good fabric but the size runs a bit small.",
+          "rating": 4,
+          "date": "2025-03-06"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Denim Jeans",
+      "description": "Classic straight-leg denim jeans for everyday wear.",
+      "price": 49.99,
+      "category": "Pants",
+      "images": [
+        "../../img/product-4-1.jpg",
+        "../../img/product-4-2.jpg"
+      ],
+      "availability": 3,
+      "sku": "JEANS-DNM-001",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "user": "John Doe",
+          "email": "johndoe@example.com",
+          "comment": "Great quality! Very comfortable to wear.",
+          "rating": 5,
+          "date": "2025-03-07"
+        },
+        {
+          "user": "Jane Smith",
+          "email": "janesmith@example.com",
+          "comment": "Good fabric but the size runs a bit small.",
+          "rating": 4,
+          "date": "2025-03-06"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Straw Hat",
+      "description": "A stylish and practical straw hat for sunny days.",
+      "price": 24.99,
+      "category": "Hat",
+      "images": [
+        "../../img/product-5-1.jpg",
+        "../../img/product-5-2.jpg"
+      ],
+      "availability": 2,
+      "sku": "HAT-STR-001",
+      "rating": 4.3,
+      "reviews": [
+        {
+          "user": "John Doe",
+          "email": "johndoe@example.com",
+          "comment": "Great quality! Very comfortable to wear.",
+          "rating": 5,
+          "date": "2025-03-07"
+        },
+        {
+          "user": "Jane Smith",
+          "email": "janesmith@example.com",
+          "comment": "Good fabric but the size runs a bit small.",
+          "rating": 4,
+          "date": "2025-03-06"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Leather Sneakers",
+      "description": "Comfortable and durable leather sneakers for casual wear.",
+      "price": 69.99,
+      "category": "Shoes",
+      "images": [
+        "../../img/product-3-1.jpg",
+        "../../img/product-3-2.jpg"
+      ],
+      "availability": 4,
+      "sku": "SHOES-LTH-001",
+      "rating": 4.8
+    },
+    {
+      "id": "5",
+      "title": "Tote Bag",
+      "description": "A spacious and stylish tote bag for everyday use.",
+      "price": 34.99,
+      "category": "Bag",
+      "size": [
+        "One Size"
+      ],
+      "images": [
+        "../../img/product-10-1.jpg",
+        "../../img/product-10-2.jpg"
+      ],
+      "availability": 1,
+      "availableColors": [
+        "Black",
+        "Gray"
+      ],
+      "sku": "BAG-TOTE-001",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "user": "John Doe",
+          "email": "johndoe@example.com",
+          "comment": "Great quality! Very comfortable to wear.",
+          "rating": 5,
+          "date": "2025-03-07"
+        },
+        {
+          "user": "Jane Smith",
+          "email": "janesmith@example.com",
+          "comment": "Good fabric but the size runs a bit small.",
+          "rating": 4,
+          "date": "2025-03-06"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Cotton T-Shirt",
+      "description": "A comfortable and stylish cotton T-shirt.",
+      "price": 21.99,
+      "category": "T-Shirt",
+      "images": [
+        "../../img/product-2-1.jpg",
+        "../../img/product-2-2.jpg"
+      ],
+      "availability": 4,
+      "sku": "TSHIRT-COT-002",
+      "rating": 4.4,
+      "reviews": [
+        {
+          "user": "John Doe",
+          "email": "johndoe@example.com",
+          "comment": "Great quality! Very comfortable to wear.",
+          "rating": 5,
+          "date": "2025-03-07"
+        },
+        {
+          "user": "Jane Smith",
+          "email": "janesmith@example.com",
+          "comment": "Good fabric but the size runs a bit small.",
+          "rating": 4,
+          "date": "2025-03-06"
+        },
+        {
+          "user": "njme",
+          "email": "najme99@gmail.com",
+          "comment": "perfect",
+          "rating": 3,
+          "date": "2025-03-08"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Denim Jeans",
+      "description": "Classic straight-leg denim jeans for everyday wear.",
+      "price": 39.99,
+      "category": "Pants",
+      "images": [
+        "../../img/product-11-1.jpg",
+        "../../img/product-11-2.jpg"
+      ],
+      "availability": 3,
+      "sku": "JEANS-DNM-002",
+      "rating": 4.2,
+      "reviews": [
+        {
+          "user": "John Doe",
+          "email": "johndoe@example.com",
+          "comment": "Great quality! Very comfortable to wear.",
+          "rating": 5,
+          "date": "2025-03-07"
+        },
+        {
+          "user": "Jane Smith",
+          "email": "janesmith@example.com",
+          "comment": "Good fabric but the size runs a bit small.",
+          "rating": 4,
+          "date": "2025-03-06"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Cotton T-Shirt",
+      "description": "A comfortable and stylish cotton T-shirt.",
+      "price": 15.5,
+      "category": "T-Shirt",
+      "images": [
+        "../../img/product-6-1.jpg",
+        "../../img/product-6-2.jpg"
+      ],
+      "availability": 4,
+      "sku": "TSHIRT-COT-003",
+      "rating": 4.1,
+      "reviews": [
+        {
+          "user": "John Doe",
+          "email": "johndoe@example.com",
+          "comment": "Great quality! Very comfortable to wear.",
+          "rating": 5,
+          "date": "2025-03-07"
+        },
+        {
+          "user": "Jane Smith",
+          "email": "janesmith@example.com",
+          "comment": "Good fabric but the size runs a bit small.",
+          "rating": 4,
+          "date": "2025-03-06"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Cotton T-Shirt",
+      "description": "A comfortable and stylish cotton T-shirt.",
+      "price": 21.75,
+      "category": "T-Shirt",
+      "images": [
+        "../../img/product-7-1.jpg",
+        "../../img/product-7-2.jpg"
+      ],
+      "availability": 4,
+      "sku": "TSHIRT-COT-004",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "user": "John Doe",
+          "email": "johndoe@example.com",
+          "comment": "Great quality! Very comfortable to wear.",
+          "rating": 5,
+          "date": "2025-03-07"
+        },
+        {
+          "user": "Jane Smith",
+          "email": "janesmith@example.com",
+          "comment": "Good fabric but the size runs a bit small.",
+          "rating": 4,
+          "date": "2025-03-06"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Cotton Shirt",
+      "description": "A comfortable and stylish cotton shirt.",
+      "price": 32.68,
+      "category": "Shirt",
+      "images": [
+        "../../img/product-8-1.jpg",
+        "../../img/product-8-2.jpg"
+      ],
+      "availability": 4,
+      "availableColors": [
+        "Yellow",
+        "Orange"
+      ],
+      "sku": "SHIRT-COT-001",
+      "rating": 4.5,
+      "reviews": [
+        {
+          "user": "John Doe",
+          "email": "johndoe@example.com",
+          "comment": "Great quality! Very comfortable to wear.",
+          "rating": 5,
+          "date": "2025-03-07"
+        },
+        {
+          "user": "Jane Smith",
+          "email": "janesmith@example.com",
+          "comment": "Good fabric but the size runs a bit small.",
+          "rating": 4,
+          "date": "2025-03-06"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Cotton T-Shirt",
+      "description": "A comfortable and stylish cotton T-shirt.",
+      "price": 19.36,
+      "category": "T-Shirt",
+      "images": [
+        "../../img/product-9-1.jpg",
+        "../../img/product-9-2.jpg"
+      ],
+      "availability": 4,
+      "sku": "TSHIRT-COT-005",
+      "rating": 4.3,
+      "reviews": [
+        {
+          "user": "John Doe",
+          "email": "johndoe@example.com",
+          "comment": "Great quality! Very comfortable to wear.",
+          "rating": 5,
+          "date": "2025-03-07"
+        },
+        {
+          "user": "Jane Smith",
+          "email": "janesmith@example.com",
+          "comment": "Good fabric but the size runs a bit small.",
+          "rating": 4,
+          "date": "2025-03-06"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Johnd",
+      "email": "john.doe@example.com",
+      "password": "hashed_password",
+      "address": "123 Main St, Cityville",
+      "role": "admin",
+      "cart": [
+        {
+          "id": "4",
+          "title": "Leather Sneakers",
+          "description": "Comfortable and durable leather sneakers for casual wear.",
+          "price": 69.99,
+          "category": "Shoes",
+          "images": [
+            "../../img/product-3-1.jpg",
+            "../../img/product-3-2.jpg"
+          ],
+          "availability": 4,
+          "sku": "SHOES-LTH-001",
+          "rating": 4.8,
+          "quantity": 2
+        },
+        {
+          "id": "2",
+          "title": "Denim Jeans",
+          "description": "Classic straight-leg denim jeans for everyday wear.",
+          "price": 49.99,
+          "category": "Pants",
+          "images": [
+            "../../img/product-4-1.jpg",
+            "../../img/product-4-2.jpg"
+          ],
+          "availability": 3,
+          "sku": "JEANS-DNM-001",
+          "rating": 4.7,
+          "reviews": [
+            {
+              "user": "John Doe",
+              "email": "johndoe@example.com",
+              "comment": "Great quality! Very comfortable to wear.",
+              "rating": 5,
+              "date": "2025-03-07"
+            },
+            {
+              "user": "Jane Smith",
+              "email": "janesmith@example.com",
+              "comment": "Good fabric but the size runs a bit small.",
+              "rating": 4,
+              "date": "2025-03-06"
+            }
+          ],
+          "quantity": 1
+        },
+        {
+          "id": "3",
+          "title": "Straw Hat",
+          "description": "A stylish and practical straw hat for sunny days.",
+          "price": 24.99,
+          "category": "Hat",
+          "images": [
+            "../../img/product-5-1.jpg",
+            "../../img/product-5-2.jpg"
+          ],
+          "availability": 2,
+          "sku": "HAT-STR-001",
+          "rating": 4.3,
+          "reviews": [
+            {
+              "user": "John Doe",
+              "email": "johndoe@example.com",
+              "comment": "Great quality! Very comfortable to wear.",
+              "rating": 5,
+              "date": "2025-03-07"
+            },
+            {
+              "user": "Jane Smith",
+              "email": "janesmith@example.com",
+              "comment": "Good fabric but the size runs a bit small.",
+              "rating": 4,
+              "date": "2025-03-06"
+            }
+          ],
+          "quantity": 1
+        }
+      ],
+      "orders": [
+        {
+          "id": "4251",
+          "userId": "1",
+          "date": "2025-03-27T19:21:28.941Z",
+          "status": "Cancelled",
+          "products": [
+            {
+              "productId": "2",
+              "quantity": 2,
+              "price": 49.99,
+              "total": 99.98,
+              "link": "/product/2"
+            }
+          ],
+          "totalAmount": 99.98
+        },
+        {
+          "id": "7566",
+          "userId": "1",
+          "date": "2025-03-27T19:40:27.012Z",
+          "status": "pending",
+          "products": [
+            {
+              "productId": "2",
+              "quantity": 2,
+              "price": 49.99,
+              "total": 99.98,
+              "link": "/product/2"
+            }
+          ],
+          "totalAmount": 99.98
+        }
+      ],
+      "favorites": ""
+    },
+    {
+      "id": "2",
+      "name": "Alice",
+      "email": "alice.smith@example.com",
+      "password": "hashed_password",
+      "address": "456 Oak St, Townsville",
+      "role": "user",
+      "cart": [],
+      "orders": [],
+      "favorites": ""
+    },
+    {
+      "id": "3",
+      "name": "Bob",
+      "email": "bob.johnson@example.com",
+      "password": "hashed_password",
+      "address": "789 Pine St, Villagetown",
+      "role": "user",
+      "cart": [],
+      "orders": [],
+      "favorites": ""
+    }
+  ],
+  "newsletter": [],
+  "orders": [
+    {
+      "id": "4251",
+      "userId": "1",
+      "date": "2025-03-27T19:21:28.941Z",
+      "status": "Cancelled",
+      "products": [
+        {
+          "productId": "2",
+          "quantity": 2,
+          "price": 49.99,
+          "total": 99.98,
+          "link": "/product/2"
+        }
+      ],
+      "totalAmount": 99.98
+    },
+    {
+      "id": "7566",
+      "userId": "1",
+      "date": "2025-03-27T19:40:27.012Z",
+      "status": "pending",
+      "products": [
+        {
+          "productId": "2",
+          "quantity": 2,
+          "price": 49.99,
+          "total": 99.98,
+          "link": "/product/2"
+        }
+      ],
+      "totalAmount": 99.98
+    }
+  ]
+}
