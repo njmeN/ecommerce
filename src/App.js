@@ -13,7 +13,7 @@ import { WishlistProvider } from './components/contexts/wishlistContext';
 import Wishlist from './components/wishlist/wishlist';
 import Accounts from './components/accounts/accounts';
 import { Details } from './components/details/details';
-import ScrollToTop from './SrollToTop';
+import ScrollToTop from './ScrollToTop';
 
 function App() {
   return (
