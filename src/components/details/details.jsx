@@ -58,6 +58,7 @@ export const Details = () => {
   };
 
   useEffect(() => {
+    if (!product) return;
     // Check if product exists in the cart and set its quantity
     const existingProduct = cart.find((item) => item.id === product.id);
     if (existingProduct) {
@@ -65,9 +66,9 @@ export const Details = () => {
     }
   }, [cart, product]);
 
-  if (!product) return <p>Product not found</p>;
 
   if (loading) return <p>Loading...</p>;
+   if (!product) return <p>Product not found</p>;
   const handleQuantityChange = (e) => {
     const minValue = 1;
     const maxValue = product.availability; // Limit based on product availability
